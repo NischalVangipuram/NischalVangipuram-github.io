@@ -1,0 +1,236 @@
+.heading{
+color:black;
+text-align:center;
+background-color: #DCDCDC;
+padding-top:80px;
+background-blend-mode: screen;
+
+}
+div.welcome
+{
+font-size:60px;
+font-family: "Dancing Script";
+
+}
+
+.heading h2
+{
+margin-top:60px;
+
+font-size:30px;
+}
+
+.role
+{
+font-size:20px;
+}
+
+.quote
+{
+font-size: 25px;
+font-family: 'Dancing Script';
+margin-top:20px;
+
+}
+
+
+
+.about-heading
+{
+text-align:center;
+font-size:40px;
+color:black;
+color:white;
+background-color:rgb(0,0,0);
+}
+
+.about-body{
+margin-left:10px;
+margin-top:20px;
+font-size:20px;
+color:black;
+}
+.about-body1{
+margin-left:10px;
+margin-top:50px;
+color:black;
+
+
+}
+
+.projects
+{
+float:left;
+}
+
+.projects h2{
+border-bottom: 3px solid black;
+width: 400px;
+padding-bottom:10px;
+font-size:30px;
+text-align:center;
+
+}
+
+.project-list
+{
+margin-left:50px;
+margin-top:20px;
+font-size:20px;
+}
+
+.technologies
+{
+margin-right:80px;
+margin-top: 0px;
+float:right;
+
+}
+
+.technologies h2
+{
+border-bottom: 3px solid black;
+width: 400px;
+text-align:center;
+padding-bottom:10px;
+}
+
+#contact
+{
+margin-top:300px;
+background-color:#D3D3D3;
+
+}
+
+.contact-heading
+{
+text-align:center;
+font-size:40px;
+color:black;
+color:white;
+background-color:black;
+}
+
+.contact-body
+{margin: auto;
+ width: 60%;
+ padding: 10px;
+}
+
+
+.contact-message
+{
+text-align:center;
+font-size:30px;
+color:black;
+margin-top:50px;
+font-family: 'Dancing Script';
+
+}
+
+.contact-body form
+{
+margin-left:15%;
+margin-top:10%;
+width:500px;
+
+
+}
+
+
+#contact .input{
+
+       width:500px;
+       height: 50px;
+        padding: 12px 20px;
+         margin: 8px 0;
+         display: inline-block;
+         border: 1px solid #ccc;
+         border-radius: 4px;
+         box-sizing: border-box;
+
+}
+
+.contact-submit
+{
+margin-left: 33%;
+margin-top:20px;
+color:white;
+background-color:black;
+border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  padding:10px;
+}
+
+.details
+{
+color: black;
+margin-left:40%;
+margin-top:50px;
+
+}
+
+.details div
+{
+font-size:20px;
+padding:20px;
+text-align:center;
+margin-left: -60%;
+}
+
+
+
+
+.gallery-heading
+{
+text-align:center;
+font-size:40px;
+color:black;
+color:white;
+background-color:black;
+}
+
+.gallery-body .card
+{
+width:25%;
+margin-left:75px;
+margin-top:90px;
+border: 1px solid grey;
+margin-bottom:90px;
+
+}
+
+.gallery-body .card-title
+{
+font-size:25px;
+}
+
+.card img
+{
+height: 200px;
+}
+
+.card-body
+{
+color:white;
+background-color:black;
+
+}
+
+.footer
+{
+background-color:black;
+height: 50px;
+color:white;
+
+}
+
+.footer .fa
+{
+color:white;
+margin-left:40%;
+margin-top: 20px;
+}
+
+
